@@ -4,6 +4,7 @@
   "description": "CRUD User Workflows in a Micro API",
   "main": "index.js",
   "scripts": {
+    "start": "micro",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/helio-training/fsim-dr-0119-micro-forms-api/issues"
   },
-  "homepage": "https://github.com/helio-training/fsim-dr-0119-micro-forms-api#readme"
+  "homepage": "https://github.com/helio-training/fsim-dr-0119-micro-forms-api#readme",
+  "dependencies": {
+    "micro": "^9.3.3",
+    "micro-cors": "^0.1.1",
+    "microrouter": "^3.1.3"
+  }
 }
