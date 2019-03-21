@@ -1,0 +1,19 @@
+{
+  "name": "micro-forms-api",
+  "version": "0.1.0",
+  "description": "CRUD User Workflows in a Micro API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helio-training/fsim-dr-0119-micro-forms-api.git"
+  },
+  "author": "wes-cutting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helio-training/fsim-dr-0119-micro-forms-api/issues"
+  },
+  "homepage": "https://github.com/helio-training/fsim-dr-0119-micro-forms-api#readme"
+}
